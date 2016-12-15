@@ -3439,3 +3439,8 @@
 .skills-header {
 	width: 100%;
 }
+
+.profile-image {
+	position: relative;
+	top: 128px;
+}
